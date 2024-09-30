@@ -1,5 +1,5 @@
 # Menggunakan image Node.js versi terbaru sebagai base image
-FROM node:18-alpine
+FROM node:18
 
 
 # Menjalankan perintah apt untuk menginstal paket-paket yang dibutuhkan
